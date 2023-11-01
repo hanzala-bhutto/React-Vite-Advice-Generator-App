@@ -1,6 +1,6 @@
 {
-  "name": "vite-react-ts-tailwind-template",
-  "homepage": "https://hanzala-bhutto.github.io/Vite-React-Tailwind-CSS-Template/",
+  "name": "advice-generator-app",
+  "homepage": "https://hanzala-bhutto.github.io/React-Vite-Advice-Generator-App/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
